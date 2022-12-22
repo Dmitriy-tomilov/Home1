@@ -1,0 +1,15 @@
+D:\Документы Дмитрий Томилов\32 учеба в гикбрейнс\Проверочная папка\Proverka2\prover\bin\Debug\net6.0\prover.exe
+D:\Документы Дмитрий Томилов\32 учеба в гикбрейнс\Проверочная папка\Proverka2\prover\bin\Debug\net6.0\prover.deps.json
+D:\Документы Дмитрий Томилов\32 учеба в гикбрейнс\Проверочная папка\Proverka2\prover\bin\Debug\net6.0\prover.runtimeconfig.json
+D:\Документы Дмитрий Томилов\32 учеба в гикбрейнс\Проверочная папка\Proverka2\prover\bin\Debug\net6.0\prover.dll
+D:\Документы Дмитрий Томилов\32 учеба в гикбрейнс\Проверочная папка\Proverka2\prover\bin\Debug\net6.0\prover.pdb
+D:\Документы Дмитрий Томилов\32 учеба в гикбрейнс\Проверочная папка\Proverka2\prover\obj\Debug\net6.0\prover.csproj.AssemblyReference.cache
+D:\Документы Дмитрий Томилов\32 учеба в гикбрейнс\Проверочная папка\Proverka2\prover\obj\Debug\net6.0\prover.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы Дмитрий Томилов\32 учеба в гикбрейнс\Проверочная папка\Proverka2\prover\obj\Debug\net6.0\prover.AssemblyInfoInputs.cache
+D:\Документы Дмитрий Томилов\32 учеба в гикбрейнс\Проверочная папка\Proverka2\prover\obj\Debug\net6.0\prover.AssemblyInfo.cs
+D:\Документы Дмитрий Томилов\32 учеба в гикбрейнс\Проверочная папка\Proverka2\prover\obj\Debug\net6.0\prover.csproj.CoreCompileInputs.cache
+D:\Документы Дмитрий Томилов\32 учеба в гикбрейнс\Проверочная папка\Proverka2\prover\obj\Debug\net6.0\prover.dll
+D:\Документы Дмитрий Томилов\32 учеба в гикбрейнс\Проверочная папка\Proverka2\prover\obj\Debug\net6.0\refint\prover.dll
+D:\Документы Дмитрий Томилов\32 учеба в гикбрейнс\Проверочная папка\Proverka2\prover\obj\Debug\net6.0\prover.pdb
+D:\Документы Дмитрий Томилов\32 учеба в гикбрейнс\Проверочная папка\Proverka2\prover\obj\Debug\net6.0\prover.genruntimeconfig.cache
+D:\Документы Дмитрий Томилов\32 учеба в гикбрейнс\Проверочная папка\Proverka2\prover\obj\Debug\net6.0\ref\prover.dll
